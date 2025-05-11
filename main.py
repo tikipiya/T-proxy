@@ -445,7 +445,7 @@ class ProxyCheck(XProxy):
 async def main_async():
     x = UI()
     p = ProxyScrape()
-    system('title T-Proxy by Nightfall#2512 ^| AIO Proxy Tool')
+    system('title T-Proxy by tikisan | AIO Proxy Tool')
     system('cls')
 
     print(x.banner())
